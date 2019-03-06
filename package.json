@@ -1,9 +1,9 @@
 {
-  "name": "markdown-paywall",
+  "name": "bitlogin",
   "version": "0.1.0",
-  "description": "Markdown Paywall",
+  "description": "Bitlogin",
   "main": "index.js",
-  "repository": "https://github.com/moneybutton/yours",
+  "repository": "https://github.com/loudbinary/bitlogin",
   "author": "Yours Inc.",
   "license": "UNLICENSED",
   "private": true,
