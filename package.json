@@ -9,7 +9,7 @@
   "private": true,
   "scripts": {
     "install": "cd api && yarn && cd ../web && yarn && cd ..",
-    "dev": "concurrently --names api,web 'cd api && yarn dev' 'cd web && yarn dev'"
+    "start": "concurrently --names api,web 'cd api && yarn dev' 'cd web && yarn dev'"
   },
   "dependencies": {
     "@moneybutton/api-client": "0.21.4"
